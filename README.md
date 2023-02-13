@@ -1,9 +1,6 @@
 # HabitRank
 Habit rank is a habit tracker that is a funner habit tracker to use. This habit tracker uses points and ranks when you preactice the skill you get more points added to you.
 
-# Navi CLI 
-Navi is a command-line interface application. Navi CLI helps you with applications. Navi CLI is a lot like Google in a lot of ways, in terms of the apps Navi CLI is alot like Google.
-
 ## Features:
 [comming later]
 
